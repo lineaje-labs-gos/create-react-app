@@ -53,5 +53,10 @@
     "*.{js,json,yml,yaml,css,scss,ts,tsx,md}": [
       "prettier --write"
     ]
+  },
+  "version": "11.0.4-lineaje-01",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/create-react-app"
   }
 }
